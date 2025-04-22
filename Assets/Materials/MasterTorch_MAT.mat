@@ -37,8 +37,8 @@ Material:
   disabledShaderPasses:
   - DepthOnly
   - MOTIONVECTORS
-  m_LockedProperties: _EdgeColor _EdgeThickness _Float _MoveSpeed _NoiseScale _NoiseStrenght
-    _NoiseTexture _RadiusNoiseOffset
+  m_LockedProperties: _DarkColor _EdgeColor _EdgeThickness _Float _MoveSpeed _NoiseScale
+    _NoiseStrenght _NoiseTexture _RadiusNoiseOffset
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -111,7 +111,7 @@ Material:
     - _ZWriteControl: 0
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 0}
-    - _DarkColor: {r: 0.15877621, g: 0.066456005, b: 0.234, a: 1}
+    - _DarkColor: {r: 0.15877616, g: 0.06645598, b: 0.23399997, a: 1}
     - _EdgeColor: {r: 0, g: 0, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
     - _LightColor: {r: 1, g: 1, b: 1, a: 1}
